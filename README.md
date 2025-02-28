@@ -7,4 +7,5 @@
 - 🤔 Please feel free to contact me: oyzh@mail.nankai.edu.cn or zihengouyang666@gmail.com.
 
 - 🔭 **Honors:**
-  - National Scholarship for the 2023-2024 Academic Year
+  - 2025 **1 paper** accepted at CVPR
+  - 2023-2024 National Scholarship
