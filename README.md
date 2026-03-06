@@ -2,8 +2,7 @@
 
 
 - 🔭 I'm currently an undergraduate student at **Nankai University**.
-- 🌱 majoring in **Computer Science and Technology**.
-- 🌱 I'm currently researching **Computer Vision**!
+- 🌱 I'm currently researching **AIGC**!
 - 🤔 Please feel free to contact me: oyzh@mail.nankai.edu.cn or zihengouyang666@gmail.com.
 
 - 🔭 **Honors:**
